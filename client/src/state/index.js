@@ -8,7 +8,7 @@ const initialState = {
 }
 
 export const authSlice = createSlice({
-    name: "auht",
+    name: "auth",
     initialState,
     reducers: {
         setMode: (state) => {
