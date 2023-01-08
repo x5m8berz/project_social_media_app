@@ -1,5 +1,5 @@
 import { Box } from "@mui/system";
-import { styled } from "@mui/system";
+
 
 const UserImage = ({ image, size = "60px" }) => {
   return (
