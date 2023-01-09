@@ -12,5 +12,5 @@
 
 <p align="center"> <img align="center" src="https://user-images.githubusercontent.com/100605170/211251811-620120b3-2fca-4ee8-b976-99eae6c20fb3.png" alt="Profile Page" width="750" height="400">  </p>
 
-##Click for full image!
+## Click for full image!
 
